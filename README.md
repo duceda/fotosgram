@@ -1,3 +1,10 @@
+/CLIENT
+-------
+-npm install
+
+
+/SERVER
+-------
 -Para crear el proyecto: npm init
 -Para generar el fichero tsconfig.json: tsc --init
 -Para ejecutar un fichero .ts: tsc <NAME_FILE> (Esto genera un fichero js en el outDir del fichero  tsconfig.json) o node <NAME_FILE>
